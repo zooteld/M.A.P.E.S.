@@ -41,5 +41,5 @@ pip install -r requirements.txt
 
 ![E-Mail](https://img.shields.io/badge/E--Mail-zooteld%gmail.com-red)
 
-- [GitHub](https://github.com/zootel)
-- [Discord](https://discord.gg/cqaQKBRY)
+- [GitHub](https://github.com/zooteld)
+- [Discord](https://discord.gg/RwfG5VuWFr)
