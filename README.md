@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### 4 Find Me <a name="findme"></a>
 
-![E-Mail](https://img.shields.io/badge/E--Mail-zooteld%gmail.com-red)
+![E-Mail](mailto:zooteld@gmail.com)
 
 - [GitHub](https://github.com/zooteld)
 - [Discord](https://discord.gg/RwfG5VuWFr)
