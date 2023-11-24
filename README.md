@@ -38,8 +38,5 @@ pip install -r requirements.txt
 - enter your message
 
 ### 4 Find Me <a name="findme"></a>
-
-![E-Mail](mailto:zooteld@gmail.com)
-
 - [GitHub](https://github.com/zooteld)
 - [Discord](https://discord.gg/RwfG5VuWFr)
