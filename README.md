@@ -13,7 +13,11 @@
 - install python3 from [python.org](https://www.python.org/downloads/) or from repo:
 
 ```shell
-apt install python3
+sudo apt install python3
+```
+
+```shell
+sudo apt install python3-pip
 ```
 
 - install requirements
