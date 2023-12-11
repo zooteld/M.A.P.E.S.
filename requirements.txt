@@ -6,3 +6,4 @@ streamlit
 urllib3
 pandas
 chromadb
+InstructorEmbedding
