@@ -1,3 +1,6 @@
+langchain
+llama_index
+IPython
 requests
 streamlit
 urllib3
